@@ -1,8 +1,10 @@
-# My Fist Python Program
+# My First Python Program
 Time : 2021 summer
 
 ## lecture
-It's available  on YouTube
+It's available  on [YouTube](https://www.youtube.com/watch?v=wqRlKVRUV_k&list=PL-g0fdC5RMboYEyt6QS2iLb_1m7QcgfHk&index=1)
+
+
 ![YouTube Playlist](https://i.pinimg.com/564x/25/25/00/25250058b2e145cc7351904296c3bbb9.jpg)
 
 ## lecture note and code implement
