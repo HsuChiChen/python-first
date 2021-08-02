@@ -10,14 +10,14 @@ It's available  on [YouTube(彭彭的課程)](https://www.youtube.com/watch?v=wq
 <br>
 
 ## Code Implement
-- [lec1](#lec1)
-- [lec2](#lec2)
-- [lec3](#lec3)
-- [lec4](#lec4)
-- [lec5](#lec5)
-- [lec6](#lec6)
-- [lec7](#lec7)
-- [lec8](#lec8)
+- [lec01](#lec01)
+- [lec02](#lec02)
+- [lec03](#lec03)
+- [lec04](#lec04)
+- [lec05](#lec05)
+- [lec06](#lec06)
+- [lec07](#lec07)
+- [lec08](#lec08)
 
 <br>
 
@@ -35,25 +35,25 @@ It's available  on [YouTube(彭彭的課程)](https://www.youtube.com/watch?v=wq
 ```
 git clone https://github.com/HsuChiChen/python-peng.git
 ```
-3. choose which source code you want to run (take lec2.py for example)
+3. choose which source code you want to run (take lec02.py for example)
 ```
-python3 lec2.py
+python3 lec02.py
 ```
 
 <br>
 
-## lec1
+## lec01
 
-## lec2
+## lec02
 
-## lec3
+## lec03
 
-## lec4
+## lec04
 
-## lec5
+## lec05
 
-## lec6
+## lec06
 
-## lec7
+## lec07
 
-## lec8
+## lec08
