@@ -9,7 +9,7 @@ It's available  on [YouTube(彭彭的課程)](https://www.youtube.com/watch?v=wq
 
 <br>
 
-## Code Implement
+## Study Note
 - [lec01](#lec01)
 - [lec02](#lec02)
 - [lec03](#lec03)
